@@ -1,0 +1,10 @@
+site_name: Documentación Processing español
+
+nav:
+  - Inicio: 'index.md'
+  - 'Guía de usuario':
+    - 'Instalación de processing': 'Instalacion_Processing.md'
+    - 'Processing vs P5.js'
+  - Acerca de: 'about.md'
+
+theme: readthedocs
